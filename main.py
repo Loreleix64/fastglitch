@@ -226,8 +226,8 @@ class Ui_MainWindow(object):
 
 	def retranslateUi(self, MainWindow):
 		MainWindow.setWindowTitle(QtGui.QApplication.translate("MainWindow", "FastGlitch", None, QtGui.QApplication.UnicodeUTF8))
-		self.label.setText(QtGui.QApplication.translate("MainWindow", "FastGlitch 2.0 - Created by Lorelei Rosenkreuz!", None, QtGui.QApplication.UnicodeUTF8))
-		self.label_2.setText(QtGui.QApplication.translate("MainWindow", "http://ranyakumo.xyz", None, QtGui.QApplication.UnicodeUTF8))
+		self.label.setText(QtGui.QApplication.translate("MainWindow", "FastGlitch 2.0 - Created by L64!", None, QtGui.QApplication.UnicodeUTF8))
+		self.label_2.setText(QtGui.QApplication.translate("MainWindow", "", None, QtGui.QApplication.UnicodeUTF8))
 		self.label_3.setText(QtGui.QApplication.translate("MainWindow", "Generative Effects", None, QtGui.QApplication.UnicodeUTF8))
 		self.label_4.setText(QtGui.QApplication.translate("MainWindow", "Random Byte Addition (0-16)", None, QtGui.QApplication.UnicodeUTF8))
 		self.label_5.setText(QtGui.QApplication.translate("MainWindow", "RGB Displace (0-64)", None, QtGui.QApplication.UnicodeUTF8))
